@@ -99,21 +99,6 @@ source devel/setup.bash
 roslaunch iftd_detection demo_nclt.launch
 ```
 
-## Citation
-
-If you use our work in your research project, please consider citing:
-
-```
-@misc{lang2024iftd,
-      title={IFTD: Image Feature Triangle Descriptor for Loop Detection in Driving Scenes}, 
-      author={Fengtian Lang and Ruiye Ming and Zikang Yuan and Xin Yang},
-      year={2024},
-      eprint={2406.07937},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
-```
-
 ## Acknowledgments
 
 Thanks for [STD](https://github.com/hku-mars/STD).
