@@ -2,17 +2,6 @@
 # **1. Introduction**
 **IFTD_detector** In this work, we propose a fast and robust Image Feature Triangle Descriptor (IFTD) based on the STD method, aimed at improving the efficiency and accuracy of place recognition in driving scenarios. We extract keypoints from BEV projection image of point cloud and construct these keypoints into triangle descriptors. By matching these feature triangles, we achieved precise place recognition and calculated the 4-DOF pose estimation between two keyframes. Furthermore, we employ image similarity inspection to perform the final place recognition. Experimental results on three public datasets demonstrate that our IFTD can achieve greater robustness and accuracy than state-of-the-art methods with low computational overhead.
 
-  
-
-## **1.1. Developers:**
-The codes of this repo are contributed by:
-[Fengtian Lang](), [Ruiye Ming](), [Zikang Yuan]().
-
-
-## **1.2. Related paper**
-Our preprint version is now available on **arxiv**:  
-[IFTD: Image Feature Triangle Descriptor for Loop Detection in Driving Scenes](https://arxiv.org/pdf/2406.07937)
-
 # **2. Prerequisites**
 
 ### 2.1 Requirements
